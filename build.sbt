@@ -1,5 +1,5 @@
 organization := "spark-wtf"
-name := "i-like-it-when-a-plan-comes-together"
+name := "i-love-it-when-a-plan-comes-together"
 version := "1.0-SNAPSHOT"
 
 scalaVersion := "2.12.17"
